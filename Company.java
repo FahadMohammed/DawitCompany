@@ -1,10 +1,3 @@
-/*
- * Fahad Mohammed
- * COSC-2436 | Fall 2017
- * Instructor: Dawit Gebremichael
- */
-package project22;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
